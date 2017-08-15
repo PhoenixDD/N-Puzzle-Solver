@@ -6,6 +6,7 @@ Most part of the input is hardcoded and the pattern database generator program i
 after the databases are created.<br/>
 The codes are completely unrefined and might be difficult to follow/use, still there are comments whichvery well document the code.
 <br/>
+<br/>
 Usage:<br/>
 ->The Pattern database generator is to be used to create the databases, once the databases are created use N-Puzzle(IDA*)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;program to solve the problem using pattern database heuristic and make sure that the database and the progrm are in &nbsp;&nbsp;&nbsp;&nbsp;the same folder.<br/>
