@@ -1,6 +1,6 @@
 # N-Puzzle-Solver
 Description:<br/>
-A 3/4-Puzzle solver written in C++, uses A*/IDA* uses misplaced tiles, linear conflict and pattern database as heuristics.<br/>
+A 3/4-Puzzle solver written in C++, uses A*/IDA* uses Manhattan Distance+linear conflict and pattern database as heuristics.<br/>
 <br/>
 Most part of the input is hardcoded and the pattern database generator program is extremely inefficient but gets the job done
 after the databases are created.<br/>
