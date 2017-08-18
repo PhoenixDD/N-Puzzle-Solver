@@ -1,3 +1,17 @@
+/****************************************************************************************************************************************************************
+  Author:
+  Dhairya Dhondiyal
+
+  Description:
+  The program solves N-Puzzle using A* algorithm with manhattan distance + linear conflict as heuristics.
+
+  Disclaimer:
+  Copyright (C) - All Rights Reserved
+  Unauthorized copying of this file, via any medium is strictly prohibited
+  Proprietary and confidential
+  Written by Dhairya Dhondiyal, February 2016
+
+****************************************************************************************************************************************************************/
 #include<iostream>
 #include<vector>
 #include<math.h>

@@ -1,3 +1,17 @@
+/****************************************************************************************************************************************************************
+  Author:
+  Dhairya Dhondiyal
+
+  Description:
+  The program creates 6-6-3 Pattern database for solving an N-Puzzle.
+
+  Disclaimer:
+  Copyright (C) - All Rights Reserved
+  Unauthorized copying of this file, via any medium is strictly prohibited
+  Proprietary and confidential
+  Written by Dhairya Dhondiyal, February 2016
+
+****************************************************************************************************************************************************************/
 #include<iostream>
 #include<stdint.h>
 #include<unordered_set>
