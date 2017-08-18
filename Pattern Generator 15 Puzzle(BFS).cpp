@@ -3,7 +3,7 @@
   Dhairya Dhondiyal
 
   Description:
-  The program creates 6-6-3 Pattern database for solving an N-Puzzle.
+  The program creates 6-6-3 Pattern database for solving a N-Puzzle.
 
   Disclaimer:
   Copyright (C) - All Rights Reserved
